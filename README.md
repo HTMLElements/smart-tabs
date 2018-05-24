@@ -40,7 +40,7 @@
  </smart-tabs>
 ```
 
-[<img src="https://raw.githubusercontent.com/htmlelements/smart-tabs/master/smart-tabs.gif" alt="Screenshot of smart-tabs, using the Material theme">](https://htmlelements.com/demos/tabs)
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-tabs/master/smart-tabs.png" alt="Screenshot of smart-tabs, using the Material theme">](https://htmlelements.com/demos/tabs)
 
 ## Getting Started
 

@@ -1,0 +1,29 @@
+{
+  "name": "smart-tabs",
+  "authors": [
+    "jQWidgets Ltd"
+  ],
+  "description": "Smart Tabs is a free Custom Element, built using Javascript, HTML and CSS.",
+  "license": "Apache-2.0",
+  "keywords": [
+    "smart tabs",
+    "tabs",
+    "tabstrip",
+    "html tabs",
+    "html tabstrip",
+    "javascript tabs",
+    "tabs custom element",
+    "custom elements"
+  ],
+  "main": "",
+  "ignore": [
+    "**/.*",
+    "**/node_modules",
+    "**/bower_components",
+    "**/tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "^1.0.0",
+    "smart-core": "HTMLElements/smart-core"
+  }
+}

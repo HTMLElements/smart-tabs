@@ -1,6 +1,6 @@
 {
   "name": "@smarthtmlelements/smart-tabs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Smart Tabs",
    "scripts": { 
   },
@@ -9,7 +9,7 @@
     "url": "git+https://github.com/HTMLElements/smart-tabs.git"
   },
   "author": "Smart HTML Elements",
-  "license": "SEE LICENSE IN https://www.htmlelements.com/pricing/",
+  "license": "SEE LICENSE IN https://www.htmlelements.com/license/",
   "bugs": {
     "url": "https://github.com/HTMLElements/smart-tabs"
   },
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@webcomponents/webcomponentsjs": "^1.0.22",
-     "@smarthtmlelements/smart-core": "^1.0.1"
+     "@smarthtmlelements/smart-core": "^1.1.0"
   },
   "main": "index.js",
   "directories": {},
@@ -37,9 +37,9 @@
 	"tabs ui",
 	"tabs component",
 	"tabs control",
-  "custom elements",
-  "webcomponents",
-  "tabs custom element",
+	"custom elements",
+	"webcomponents",
+	"tabs custom element",
  	"tabstrip",
   	"tabstrip element",
   	"tabstrip user interface",

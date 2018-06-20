@@ -15,8 +15,6 @@
 <custom-element-demo>
   <template>
     <script src="../webcomponentsjs/webcomponents-lite.js"></script>
-    <script src="../smart-core/source/native-shim.js"></script>
-    <script src="../smart-core/source/smart.element-polyfills.js"></script>
     <script src="../smart-core/source/smart.element.js"></script>
     <script src="../smart-core/source/smart.tabs.js"></script>
     <link rel="stylesheet" href="../smart-core/source/styles/smart.base.css" type="text/css" />

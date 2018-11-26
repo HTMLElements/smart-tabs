@@ -1,6 +1,6 @@
 {
   "name": "@smarthtmlelements/smart-tabs",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Smart Tabs",
    "scripts": { 
   },
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@webcomponents/webcomponentsjs": "^1.0.22",
-     "@smarthtmlelements/smart-core": "^1.1.0"
+     "@smarthtmlelements/smart-core": "^2.0.0"
   },
   "main": "index.js",
   "directories": {},

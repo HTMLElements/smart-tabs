@@ -100,4 +100,5 @@ We are using [ESLint](http://eslint.org/) for linting JavaScript code.
 
 ## License
 
-Apache License 2.0
+[https://htmlelements.com/license/](https://htmlelements.com/license/)
+

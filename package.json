@@ -1,1 +1,53 @@
+<<<<<<< HEAD
 {"name":"@smarthtmlelements/smart-tabs","version":"4.5.0","description":"Smart Tabs","scripts":{},"repository":{"type":"git","url":"git+https://github.com/HTMLElements/smart-tabs.git"},"author":"Smart HTML Elements","license":"SEE LICENSE IN https://www.htmlelements.com/license/","bugs":{"url":"https://github.com/HTMLElements/smart-tabs"},"homepage":"https://github.com/HTMLElements/smart-tabs#readme","devDependencies":{},"dependencies":{"@webcomponents/webcomponentsjs":"^1.0.22","@smarthtmlelements/smart-core":"^1.1.0"},"main":"index.js","directories":{},"keywords":["custom","element","tabs custom element","html tabs","tabs","web components tabs","tabs element","tabstrip","custom tabs","tabs widget","tabs ui","tabs component","tabs control","custom elements","webcomponents","tabs custom element","tabstrip","tabstrip element","tabstrip user interface","material tabs","material tabstrip"]}
+=======
+{
+  "name": "@smarthtmlelements/smart-tabs",
+  "version": "2.0.0",
+  "description": "Smart Tabs",
+   "scripts": { 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HTMLElements/smart-tabs.git"
+  },
+  "author": "Smart HTML Elements",
+  "license": "SEE LICENSE IN https://www.htmlelements.com/license/",
+  "bugs": {
+    "url": "https://github.com/HTMLElements/smart-tabs"
+  },
+  "homepage": "https://github.com/HTMLElements/smart-tabs#readme",
+  "devDependencies": {
+ 
+  },
+  "dependencies": {
+    "@webcomponents/webcomponentsjs": "^1.0.22",
+     "@smarthtmlelements/smart-core": "^2.0.0"
+  },
+  "main": "index.js",
+  "directories": {},
+  "keywords": [
+	"custom",
+	"element",
+	"tabs custom element",
+	"html tabs",
+	"tabs",
+	"web components tabs",
+	"tabs element",
+	"tabstrip",
+	"custom tabs",
+	"tabs widget",
+	"tabs ui",
+	"tabs component",
+	"tabs control",
+	"custom elements",
+	"webcomponents",
+	"tabs custom element",
+ 	"tabstrip",
+  	"tabstrip element",
+  	"tabstrip user interface",
+  	"material tabs",
+  	"material tabstrip"
+  ]
+}
+>>>>>>> origin/master
